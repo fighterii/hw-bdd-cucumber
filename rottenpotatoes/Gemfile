@@ -35,6 +35,8 @@ gem 'jquery-rails'
 gem 'haml'
 gem 'protected_attributes'
 
+gem 'simplecov', :require => false
+
 # Use unicorn as the web server
 # gem 'unicorn'
 
